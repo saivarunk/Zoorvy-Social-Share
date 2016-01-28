@@ -1,0 +1,66 @@
+.zoorvy-social-share-wrapper div
+{
+	float: left;
+	margin-right: 10px;
+}
+
+.zoorvy-social-share-wrapper div.share-on
+{
+	padding: 5px;
+	font-weight: bold;
+}
+
+.zoorvy-social-share-wrapper div.facebook
+{
+	background-color: #3a5795;
+	padding: 5px;
+}
+
+.zoorvy-social-share-wrapper div.facebook a
+{
+	color: white;
+}
+
+.zoorvy-social-share-wrapper div.twitter
+{
+	background-color: #55acee;
+	padding: 5px;
+}
+
+.zoorvy-social-share-wrapper div.twitter a
+{
+	color: white;
+}
+
+.zoorvy-social-share-wrapper div.linkedin
+{
+	background-color: #007bb6;
+	padding: 5px;
+}
+
+.zoorvy-social-share-wrapper div.linkedin a
+{
+	color: white;
+}
+
+.zoorvy-social-share-wrapper div.reddit
+{
+	background-color: #ACD4FC;
+	padding: 5px;
+}
+
+.zoorvy-social-share-wrapper div.reddit a
+{
+	color: white;
+}
+
+.zoorvy-social-share-wrapper div a
+{
+	text-decoration: none;
+	border: none;
+}
+
+.clear
+{
+	clear: left;
+}
