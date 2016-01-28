@@ -3,14 +3,14 @@
 /**
  *
  * @link              http://saivarun.me/
- * @since             1.0.0
+ * @since             0.1.1
  * @package           Zoorvy_Social_Share
  *
  * @wordpress-plugin
  * Plugin Name:       Zoorvy Social Share
  * Plugin URI:        http://www.zoorvy.com/
  * Description:       Simple Social Sharing buttons for WordPress that dosent effect the pageload speeds.
- * Version:           1.0.0
+ * Version:           0.1.1
  * Author:            Sai Varun KN
  * Author URI:        http://saivarun.me/
  * License:           GPL-2.0+
@@ -174,7 +174,7 @@ function add_zoorvy_social_share_icons($content)
     $html = $html . "<div class='clear'></div></div>";
 
     return $content = $content . $html;
-    
+
 }
 
 add_filter("the_content", "add_zoorvy_social_share_icons");
